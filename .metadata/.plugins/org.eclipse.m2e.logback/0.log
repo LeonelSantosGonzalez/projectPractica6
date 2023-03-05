@@ -1,0 +1,10 @@
+2023-03-05 00:08:57,676 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-03-05 00:09:31,434 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.devpredator:practica-spring-jsf:0.0.1-SNAPSHOT @ C:\Users\USERS\Desktop\Practica6-practica-spring-jsf-base\practica-spring-jsf\pom.xml.
+2023-03-05 00:09:39,861 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /practica-spring-jsf/src/main/java
+2023-03-05 00:09:39,863 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /practica-spring-jsf/src/main/resources
+2023-03-05 00:09:39,880 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /practica-spring-jsf/src/test/java
+2023-03-05 00:09:43,750 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2023-03-05 00:10:08,231 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-05 00:10:08,269 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2023-03-05 00:10:08,791 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-05 00:10:08,792 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\USERS\Desktop\Practica6-practica-spring-jsf-base\practica-spring-jsf\src\test\resources

@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\USERS\Desktop\Practica6-practica-spring-jsf-base\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2324467696.index
+163167678.index
+2112688566.index
+2457414483.index
+822397054.index
